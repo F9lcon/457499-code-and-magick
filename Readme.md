@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Меньших](https://up.htmlacademy.ru/javascript/13/user/457499).
-* Наставник: `Неизвестно`.
+* Наставник: [Альбина Токарчук](https://htmlacademy.ru/profile/id167491).
 
 ---
 
