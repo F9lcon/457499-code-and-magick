@@ -18,7 +18,7 @@ var getWizards = function () {
     wizards[i].name = namesData[getRandom(0, 7)] + ' ' + secondNamesData[getRandom(0, 7)];
     wizards[i].coatColor = coatData[getRandom(0, 5)];
     wizards[i].eyesColor = eyesData[getRandom(0, 4)];
-  };
+  }
   return wizards;
 };
 var similarWizards = getWizards();
